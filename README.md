@@ -17,7 +17,7 @@ Identified key trends and patterns in tournament data.
 Visualized historical performance using Python libraries such as Matplotlib and Seaborn.
 
 ### Insights Generation: 
-Highlighted standout teams, players, and tournaments.
+Highlighted standout teams, players and tournaments.
 
 ## Tools and Technologies Used
 Programming Language: Python
