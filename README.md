@@ -13,8 +13,8 @@ The FIFA World Cup is the most prestigious football tournament globally, held ev
 Preprocessed raw FIFA World Cup data for consistency and accuracy.
 
 ### Exploratory Data Analysis (EDA):
-#Identified key trends and patterns in tournament data.
-#Visualized historical performance using Python libraries such as Matplotlib and Seaborn.
+Identified key trends and patterns in tournament data.
+Visualized historical performance using Python libraries such as Matplotlib and Seaborn.
 
 ### Insights Generation: 
 Highlighted standout teams, players and tournaments.
